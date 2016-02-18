@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1455722478 source:c:\users\acer\dropbox\utm\wp\lab1\main.cpp
+	<tchar.h>
+	<windows.h>
+
