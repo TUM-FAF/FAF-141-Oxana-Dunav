@@ -37,7 +37,9 @@ doesn’t work.
 from the program. 
 - Elements fit window on resize
 
-###Program Overview
+###Result
+
+![appimg] (https://github.com/TUM-FAF/FAF-141-Oxana-Dunav/blob/master/WP/lab%231/myWindow.jpg)
 
 ### Conclusions
 During this laboratory work I learned the basis of windows programming, for example how
