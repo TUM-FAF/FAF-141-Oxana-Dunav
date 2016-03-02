@@ -22,7 +22,7 @@
 #define IDI_ICON 		            300
 
 #define IDD_DIALOG		          400
-#define IDC_STATIC							401
+#define IDC_STATIC401
 
 #define HK_EXIT 		            500
 #define HK_ABOUT 		           501
