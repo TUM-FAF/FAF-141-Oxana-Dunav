@@ -1,4 +1,4 @@
-# Windows Programming Laboratory work 2
+# Windows Programming Laboratory Work 2
 
 ## Title
 Advanced Form Elements. Child Windowses. Basics of Working With Keyboard.
