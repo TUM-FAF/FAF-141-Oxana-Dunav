@@ -24,8 +24,8 @@
 #define IDD_DIALOG		          400
 #define IDC_STATIC              401
 
-#define HK_EXIT 		            500
-#define HK_ABOUT 		           501
+#define HK_EXIT                 500
+#define HK_ABOUT                501
 
 
 
