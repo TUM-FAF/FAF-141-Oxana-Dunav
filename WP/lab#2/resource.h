@@ -14,12 +14,12 @@
 #define IDC_LABEL3              110
 
 
-#define IDM_MENU 		            200
-#define ID_EXIT 		            201
-#define ID_DATA 		            202
-#define ID_ABOUT 		            203
+#define IDM_MENU                200
+#define ID_EXIT                 201
+#define ID_DATA                 202
+#define ID_ABOUT                203
 
-#define IDI_ICON 		            300
+#define IDI_ICON                300
 
 #define IDD_DIALOG		          400
 #define IDC_STATIC              401
