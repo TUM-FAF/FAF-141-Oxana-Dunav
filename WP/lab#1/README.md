@@ -1,4 +1,4 @@
-# Windows Programming Laboratory works
+# Windows Programming Laboratory work 1
 
 ## Title
 Window. Window handling. Basic window’s form elements
