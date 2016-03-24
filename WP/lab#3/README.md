@@ -27,9 +27,9 @@ I did the laboratory work in Code::Blocks 13.12 IDE.
 
 ## Features
 
-###Result
+##Result
 
-### Conclusions
+## Conclusions
 During this laboratory work I learned During this laboratory work I learned about basic drawing and how to use the mouse. For me this laboratory work was harder and more complex than the first one.
 
 In my opinion, it went a lot more in depth, covering some more advanced
