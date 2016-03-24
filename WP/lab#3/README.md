@@ -23,7 +23,6 @@ I did the laboratory work in Code::Blocks 13.12 IDE.
 - Use mouse as an eraser with adjustable width
 
 **_Additional Tasks_**
-- Use a scroll bar to scroll through application working space. Scroll should appear only when necessary
 - Added 1 button for clearing the drawing area
 
 ## Features
