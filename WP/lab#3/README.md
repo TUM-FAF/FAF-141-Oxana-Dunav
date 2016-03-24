@@ -42,6 +42,7 @@ color, or not, by dragging and releasing the mouse button.
 - By pressing <b>CTRL + C</b> you select blue color for drawing
 
 ###Result
+![appimg] (https://github.com/TUM-FAF/FAF-141-Oxana-Dunav/blob/master/WP/lab%233/pictures/result.jpg)
 
 ###Conclusions
 During this laboratory work I learned During this laboratory work I learned about basic drawing and how to use the mouse. For me this laboratory work was harder and more complex than the first one.
