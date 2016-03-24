@@ -26,6 +26,20 @@ I did the laboratory work in Code::Blocks 13.12 IDE.
 - Added 1 button for clearing the drawing area
 
 ## Features
+- I've structured my tools into 3 groupboxes: Tools/Shapes, Color Properties, Width Properties
+- <b>Pencil</b> will draw a continuous line with the stroke weight equal to 1, and the selectable stroke
+color and weight by selecting this tool, and left-clicking on the drawing area.
+- <b>Line</b> will draw a straight line between two points, with the selectable stroke weight and color
+by dragging and releasing the mouse button.
+- <b>Bezier curve.</b> You can draw Bezier curve using mouse, by clicking and dragging two times.
+- <b>Rectangle</b> will draw a rectangle, with selectable stroke weight and color, lled with a selectable
+color, or not, by dragging and releasing the mouse button.
+- <b>Ellipse</b> will draw an ellipse, with selectable stroke weight and color, lled with a selectable
+color, or not, by dragging and releasing the mouse button.
+- <b>Eraser</b> will erase the drawing area, with a selectable weight.
+- <b>Clear</b> button will clear the whole drawing area.
+- By pressing <b>CTRL + E</b> you select ellipse for drawing.
+- By pressing <b>CTRL + C</b> you select blue color for drawing
 
 ###Result
 
